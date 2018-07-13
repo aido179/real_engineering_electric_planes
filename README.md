@@ -1,10 +1,17 @@
-# Real Engineering Battery
-### Calculating Battery Capacity Required for Electric Vehicles
+# Real Engineering Electric Planes
+### Are Electric Planes Possible?
 
 This is a React application.
 
 You can learn about react [here](https://reactjs.org).
 
+## How to run this yourself
+1. Fork and clone the git repository to your local machine.
+2. Change directory into the local repository.
+3. Run `npm install` to install dependencies.
+4. Run `npm start` to start the development server.
+
+And you're all set! Go to localhost:3000 to view the running app.
 
 ## Further Info
 

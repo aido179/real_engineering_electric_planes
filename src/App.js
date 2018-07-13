@@ -113,7 +113,7 @@ class App extends Component {
               <p className="outputText">${this.state.cost}</p>
             </div>
             <div className="col col50">
-              <img src="/img/tesla1.png" className="outputImage"/>
+              <img src="/img/tesla1.png" alt="A Tesla electric vehicle." className="outputImage"/>
             </div>
             <div className="col col25 spaceAbove">
               <h3>Weight:</h3>

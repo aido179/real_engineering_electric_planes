@@ -329,13 +329,13 @@ class App extends Component {
   }
 }
 
-class VariableInput extends Component{
+/*class VariableInput extends Component{
   render() {
     let val = this.props.state[this.props.var];
     return (
       <input type="number" data-var={this.props.var} onChange={this.props.handleChange} value={val}></input>
     )
   }
-}
+}*/
 
 export default App;
